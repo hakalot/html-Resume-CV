@@ -1,3 +1,22 @@
 ul{
     list-style-type: none;
 }
+
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+
+.spang {
+    float: left;
+    width: 0.7em;
+    font-size: 400%;
+    font-family: algerian, courier;
+    line-height: 40%;
+  }
+
+  .clear{
+    clear: both;
+  }
